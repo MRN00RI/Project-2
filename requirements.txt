@@ -1,0 +1,5 @@
+pyperclip
+tqdm
+thefuzz
+openpyxl
+PyMuPDF
